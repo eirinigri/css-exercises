@@ -1,0 +1,14 @@
+.good {
+    background-color: black;
+    color: white;
+}
+
+.bad {
+    background-color: yellow;
+}
+
+.good,
+.bad {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
